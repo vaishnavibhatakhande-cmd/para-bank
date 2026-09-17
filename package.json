@@ -1,0 +1,13 @@
+{
+  "name": "para-bank-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Playwright workspace for ParaBank automation.",
+  "scripts": {
+    "codegen": "npx playwright codegen",
+    "playwright": "npx playwright"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}
